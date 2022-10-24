@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   color: white;
+    width: 1000px;
+    background: #00CED1;
+    font-family: "Quicksand", sans-serif;
+  }
+  .container{
+    transform: translateX(-50px);
+    position: absolute;
+    top: 200px;
+    left: 55%;
+  }
+
+  .gambar{
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+
+
+
